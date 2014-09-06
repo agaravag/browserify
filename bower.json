@@ -1,0 +1,24 @@
+{
+  "name": "hello_express8_11",
+  "version": "0.0.0",
+  "homepage": "https://github.com/agaravag/hello_express8_11",
+  "authors": [
+    "agaravag <agaravag@hotmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
